@@ -3,11 +3,6 @@
   "version": "2.1.0",
   "description": "A magical tool to improve React-Redux performance",
   "main": "lib/index.js",
-  "files": [
-    "check.js",
-    "memoize.js",
-    "patch.js"
-  ],
   "keywords": [
     "react",
     "redux",
